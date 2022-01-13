@@ -4,3 +4,10 @@
         "text":"Test text"
     }
 ]
+const fs = require("fs");
+const path = require("../db/db.json");
+
+fs.writeFile(
+  path.join(__dirname, '/output.md'),
+  'Hello World! I am relative to the directory this scripts inherits.',
+);
