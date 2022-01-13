@@ -1,6 +1,6 @@
 # Note-Taker
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+An application called Note Taker that can be used to write and save notes. This application uses Express.js back end and saves and retrieves note data from a JSON file.
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
