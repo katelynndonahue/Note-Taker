@@ -1,10 +1,8 @@
 # Note-Taker
 ## Description
-An application called Note Taker that can be used to write and save notes. This application uses Express.js back end and saves and retrieves note data from a JSON file.
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+An application called Note Taker that can be used to write and save notes. This application uses Express.js on the back end and saves and retrieves note data from a JSON file.
+- My motivation was to design an app that creates and saves notes using what was learned the previous week during the Express.js portion of the curriculum.
+- This application organizes and displays important information in a clean and aesthetically pleasing page.
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
@@ -12,17 +10,15 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+I began by creating uniquely named repository in GitHub. I then cloned the SSH Key to my local terminal to work locally through VS Code. From there, I started by creating all of my necessary files and began looking through the given material to determine my next steps.
 ## Usage
+To use the application, simply give your note a title and write your note on the two given text lines and click the save icon to save to local storage. Click the + icon to add a new note.
 Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![app image](./assets/images/)
     ```
 ## Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+My tutor, Faran Navazi as well as the videos from our sessions of this weeks lessons served in assisting the execution of this application.
 ## License
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 ---
