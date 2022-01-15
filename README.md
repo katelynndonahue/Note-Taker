@@ -2,9 +2,8 @@
 ## Description
 An application called Note Taker that can be used to write and save notes. This application uses Express.js on the back end and saves and retrieves note data from a JSON file.
 - My motivation was to design an app that creates and saves notes using what was learned the previous week during the Express.js portion of the curriculum.
-- This application organizes and displays important information in a clean and aesthetically pleasing page.
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
+- This application organizes and displays important information and lists tasks orderly in a clean and aesthetically pleasing page.
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
